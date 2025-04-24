@@ -1,0 +1,32 @@
+[
+  {
+    "bit_size": 32,
+    "alice_priv": 1191513438,
+    "bob_priv": 988230802,
+    "shared_secret": [
+      166902552612145,
+      16130158932564
+    ],
+    "aes_key_hex": "0111409ecbb111550f23de3b1eec810ede39d75f03710e29296dbb03396c7cbe"
+  },
+  {
+    "bit_size": 40,
+    "alice_priv": 447432208193,
+    "bob_priv": 337403775726,
+    "shared_secret": [
+      166902552612145,
+      16130158932564
+    ],
+    "aes_key_hex": "0111409ecbb111550f23de3b1eec810ede39d75f03710e29296dbb03396c7cbe"
+  },
+  {
+    "bit_size": 48,
+    "alice_priv": 46720637724307,
+    "bob_priv": 174485073547161,
+    "shared_secret": [
+      166902552612145,
+      16130158932564
+    ],
+    "aes_key_hex": "0111409ecbb111550f23de3b1eec810ede39d75f03710e29296dbb03396c7cbe"
+  }
+]
